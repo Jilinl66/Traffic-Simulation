@@ -1,4 +1,4 @@
-package inf295.project.warmup;
+package simulation;
 
 /**
  * Four possible directions for each car

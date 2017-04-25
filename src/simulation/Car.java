@@ -1,4 +1,4 @@
-package inf295.project.warmup;
+package simulation;
 import java.awt.Color;
 import java.awt.Rectangle;
 import java.util.Random;

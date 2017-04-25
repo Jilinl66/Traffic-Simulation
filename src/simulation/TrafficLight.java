@@ -1,4 +1,4 @@
-package inf295.project.warmup;
+package simulation;
 
  /**
  * This class is class for traffic light. The light change indepedently

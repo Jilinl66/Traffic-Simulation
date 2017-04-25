@@ -1,4 +1,4 @@
-package inf295.project.warmup;
+package simulation;
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Container;
@@ -6,8 +6,6 @@ import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
-import java.awt.GraphicsDevice;
-import java.awt.GraphicsEnvironment;
 import java.awt.Image;
 import java.awt.Rectangle;
 import java.util.ArrayList;
